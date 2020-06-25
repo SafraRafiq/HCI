@@ -1,4 +1,5 @@
 #HCI 104475: Information and history Management #
+
 ###PROJECT MEMBERS###
 StdID | Name
 ------------ | -------------
